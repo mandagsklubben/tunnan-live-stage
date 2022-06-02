@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE InputProfile>
+<InputProfile xmlns="http://www.qlcplus.org/InputProfile">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>4.12.4</Version>
+  <Author>njursten</Author>
+ </Creator>
+ <Manufacturer>Tunnan</Manufacturer>
+ <Model>.</Model>
+ <Type>OSC</Type>
+ <Channel Number="0">
+  <Name>/fader1</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="1">
+  <Name>/speed/bars</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="62784">
+  <Name>/1/leftspot</Name>
+  <Type>Slider</Type>
+ </Channel>
+</InputProfile>
